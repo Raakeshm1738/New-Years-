@@ -2,5 +2,5 @@
 Simple New Years countdown. Hopefully next year is better :p
 
 
-![alt text](https://github.com/Raakeshm1738/New-Years-/screenshot.jpg?raw=true)
+![alt text](https://github.com/Raakeshm1738/New-Years-/blob/main/screenshot.jpg?raw=true)
 
